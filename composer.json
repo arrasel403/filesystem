@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": "app/"
+    }
+  },
+  "require": {
+    "symfony/filesystem": "^5.2",
+    "fzaninotto/faker": "^1.9"
+  }
+}
